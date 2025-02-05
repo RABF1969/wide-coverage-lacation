@@ -11,4 +11,4 @@ Esse foi um projeto que eu aprendi no <a href="https://rodolfomori.com.br/devclu
 
 <p>Projeto responsivo em telas de celulares.</p>
 
-<img width="700px" src="https://github.com/AlessandroPedroso/wide-coverage-location/blob/master/img/desktop.jpg"/><br><br> <img width="200px" src="https://github.com/AlessandroPedroso/wide-coverage-location/blob/master/img/mobile.jpg" alt="img-mobile"/>
+<img width="700px" src="https://github.com/RABF1969/wide-coverage-lacation/blob/main/img/desktop.jpg"/><br><br> <img width="200px" src="https://github.com/RABF1969/wide-coverage-lacation/blob/main/img/mobile.jpg" alt="img-mobile"/>
