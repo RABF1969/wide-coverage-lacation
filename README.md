@@ -2,7 +2,7 @@
 
 Esse foi um projeto que eu aprendi no <a href="https://rodolfomori.com.br/devclub/">DevClub</a>
 
-<a href="https://projeto1-teste-responsivo.netlify.app/">Link do projeto</a>
+<a href="https://wide-coverage-lacation.vercel.app/">Link do projeto</a>
 
 <h2>Tecnologias utilizadas</h2>
   
